@@ -9,6 +9,7 @@ margin: 0 auto;
 
 a {
   text-decoration: none;
+  color: #ffffff;
 }
 
 body {
@@ -50,10 +51,7 @@ footer {
   padding-top: 15px;
 }
 
-.copyright a {
-  color: #ffffff;
-}
-
+/* Адаптив */
 @media (max-width: 470px) {
   h1 {
     font-size: 20px;
